@@ -6,8 +6,7 @@ This repository contains a YOLO + CLIP-based pipeline for localizing specific in
 scene-localization/
 │
 ├── Untitled2_with_finetune.ipynb  # Main Colab notebook
-├── requirements.txt                # Python dependencies
-├── output/                         # Folder where inference results (crops) are saved
+├── requirements.txt                # Python dependencies                       
 ├── voc_dark_data/                  # Your custom YOLO dataset
 └── weights/
     └── best_yolo.pt                # Fine-tuned YOLO weights
