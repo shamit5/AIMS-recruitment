@@ -8,6 +8,7 @@ scene-localization/
 ├── voc_dark_data/                   # Custom YOLO dataset
 └── weights/
     └── best_yolo.pt                 # Fine-tuned YOLO weights
+
 ⚙️ Features
 
 YOLOv8 for fast object detection (fine-tunable on custom dataset).
