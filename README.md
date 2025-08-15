@@ -2,12 +2,7 @@ Scene Localization in Dense Images via YOLO + CLIP
 
 This repository contains a YOLO + CLIP-based pipeline for localizing specific interactions in dense images using natural language queries. Given an image with multiple activities, the system returns the most relevant cropped region corresponding to a text description.
 
-scene-localization/
-├── Untitled2_with_finetune.ipynb   # Main Colab notebook
-├── requirements.txt                 # Python dependencies
-├── voc_dark_data/                   # Custom YOLO dataset
-└── weights/
-    └── best_yolo.pt                 # Fine-tuned YOLO weights
+
 
 ⚙️ Features
 
