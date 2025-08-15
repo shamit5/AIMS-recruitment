@@ -1,0 +1,9 @@
+ultralytics>=8.3.179
+torch>=2.0.0
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+pillow
+matplotlib
+opencv-python
